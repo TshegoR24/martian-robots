@@ -1,0 +1,11 @@
+{
+  "name": "martian-robots",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Martian Robots kata with simple Node test runner",
+  "scripts": {
+    "test": "node tests/test_output.js",
+    "test-output": "node tests/test_output.js"
+  }
+}
+
